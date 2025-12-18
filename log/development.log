@@ -1,0 +1,15 @@
+  [1m[35m (111.0ms)[0m  [1m[35m-- MySQL dump 10.13  Distrib 8.0.21, for Win64 (x86_64)
+--
+-- Host: countrydata.civljeliy7w6.us-east-1.rds.amazonaws.com    Database: country_schema
+-- ------------------------------------------------------
+-- Server version	8.0.17
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */ /*application='Final6'*/[0m
+  [1m[35m (131676.4ms)[0m  [1m[35m-- MySQL dump 10.13  Distrib 8.0.21, for Win64 (x86_64)
+--
+-- Host: countrydata.civljeliy7w6.us-east-1.rds.amazonaws.com    Database: country_schema
+-- ------------------------------------------------------
+-- Server version	8.0.17
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */ /*application='Final6'*/[0m
+  [1m[35m (101.9ms)[0m  [1m[35mSHOW TABLES; /*application='Final6'*/[0m
